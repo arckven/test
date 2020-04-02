@@ -1,5 +1,6 @@
 {
-  "shortage": [
+  "shortage": {
+    "WSCR": [
     ["037-0015-01", "ID label,5/8x1/4in,kapton white,wd 2mm,", 4, 30000, 0, 0, 30000, "covered", "Buyer", 15, 3, 0.0102, "Direchisa", "NA"],
     ["100150", "Fitting, Push-to-connect, .50 in hose OD", 1, 9579, 0, 0, 9579, "M100001", "Buyer", 0, 0, 0, "Mack Molding", "NA"],
     ["100151", "Pressure Vessel, Lid", 1, 628, 0, 0, 628, "P100006, need final drawings and first article inspection approval from Heatworks", "Buyer", 0, 0, 0, "Mack Molding", "NA"],
@@ -23,7 +24,7 @@
     ["A100025", "WIRE HARNESS, SAFETY, MCU", 1, 5210, 0, 0, 5210, "need to placed ", "Buyer", 10, 2, 0.98, "Flag Electronics", "NA"],
     ["A100026", "WIRE HARNESS, POWER, UI", 1, 5228, 0, 0, 5228, "need to placed ", "Buyer", 10, 2, 0.54, "Flag Electronics", "NA"],
     ["A100027", "WIRE HARNESS, POWER, RELAY", 1, 5226, 0, 0, 5226, "need to placed ", "Buyer", 10, 2, 1.75, "Flag Electronics", "NA"]
-],
+]},
   "comments": [
     { "id": 122, "body": "some comment", "postId": 1 },
     { "id": 333, "body": "some comment", "postId": 1 }
